@@ -61,11 +61,12 @@
                 android:layout_height="wrap_content"
                 android:text="전화 연결" />
         </LinearLayout>
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="대표사진"/>
+            android:text="대표 사진"/>
 
         <ImageView
             android:id="@+id/imgThumbnail"
